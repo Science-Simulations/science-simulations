@@ -1,1 +1,1 @@
-## Science-Simulations.github.com
+## science-simulations.github.com
